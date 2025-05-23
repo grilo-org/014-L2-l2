@@ -1,0 +1,68 @@
+{
+  "resultados": [
+    {
+      "pedidoId": "pedido-001",
+      "caixas": [
+        {
+          "caixaId": 1,
+          "altura": 30,
+          "largura": 40,
+          "comprimento": 80,
+          "produtos": [
+            {
+              "id": "produto-001",
+              "altura": 25,
+              "largura": 35,
+              "comprimento": 55
+            },
+            {
+              "id": "produto-002",
+              "altura": 15,
+              "largura": 20,
+              "comprimento": 30
+            }
+          ]
+        },
+        {
+          "caixaId": 1,
+          "altura": 30,
+          "largura": 40,
+          "comprimento": 80,
+          "produtos": [
+            {
+              "id": "produto-003",
+              "altura": 20,
+              "largura": 30,
+              "comprimento": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pedidoId": "pedido-002",
+      "caixas": [
+        {
+          "caixaId": 2,
+          "altura": 80,
+          "largura": 50,
+          "comprimento": 40,
+          "produtos": [
+            {
+              "id": "produto-004",
+              "altura": 40,
+              "largura": 45,
+              "comprimento": 70
+            },
+            {
+              "id": "produto-005",
+              "altura": 10,
+              "largura": 15,
+              "comprimento": 25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

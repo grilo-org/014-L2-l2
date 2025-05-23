@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pedido-001",
+    "produtos": [
+      {
+        "id": "produto-001",
+        "altura": 25,
+        "largura": 35,
+        "comprimento": 55
+      },
+      {
+        "id": "produto-002",
+        "altura": 15,
+        "largura": 20,
+        "comprimento": 30
+      },
+      {
+        "id": "produto-003",
+        "altura": 20,
+        "largura": 30,
+        "comprimento": 40
+      }
+    ]
+  },
+  {
+    "id": "pedido-002",
+    "produtos": [
+      {
+        "id": "produto-004",
+        "altura": 40,
+        "largura": 45,
+        "comprimento": 70
+      },
+      {
+        "id": "produto-005",
+        "altura": 10,
+        "largura": 15,
+        "comprimento": 25
+      }
+    ]
+  }
+]
